@@ -1,9 +1,11 @@
 # Landing Page Project
 
-## Instructions
+This is a responsive landing page created as part of a front-end development course. It serves as a practical exercise in creating interactive web components and building a polished user experience.
 
-The starter project has some HTML and CSS styling to display a static version of the Landing Page project. You'll need to convert this project from a static project to an interactive one. This will require modifying the HTML and CSS files, but primarily the JavaScript file.
+## Features
 
-To get started, open `js/app.js` and start building out the app's functionality
+- Dynamic navigation bar
+- Smooth scrolling
+- Active section highlighting
+- "Back to Top" button
 
-For specific, detailed instructions, look at the project instructions in the Udacity Classroom.
